@@ -23,7 +23,7 @@ repository               : "gigg1e.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://s41.ax1x.com/2026/03/22/peuYgL8.webp"
+  avatar           : ""
   name             : "李洪乐"
   pronouns         : # example: "she/her"  
   bio              : "岁月神偷"
